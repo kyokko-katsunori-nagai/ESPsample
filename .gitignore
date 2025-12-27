@@ -1,0 +1,86 @@
+# ESP-IDF プロジェクト用 .gitignore
+
+# ビルド成果物
+build/
+*.bin
+*.elf
+*.map
+
+# SDK設定ファイル（自動生成）
+sdkconfig
+sdkconfig.old
+
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+*.egg
+
+# IDEとエディタ設定
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# デバッグとログファイル
+*.log
+*.dmp
+core
+
+# 一時ファイル
+*.tmp
+*.bak
+*.cache
+
+# Windows固有
+desktop.ini
+$RECYCLE.BIN/
+
+# Flash download tool
+flash_project_args.json
+
+# コンポーネント管理
+dependencies.lock
+managed_components/
+
+# テストとカバレッジ
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# ドキュメント自動生成
+_build/
+docs/_build/
+
+# 証明書とキー（セキュリティ上重要）
+*.pem
+*.key
+*.crt
+*.cer
+certificates/
+private_key/
+
+# 環境固有の設定
+.env
+.env.local
+
+# パーティションテーブル（バイナリ）
+*.csv.bin
+
+# 個人用メモ
+notes.txt
+TODO.txt
+memo.md
