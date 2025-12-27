@@ -1,0 +1,61 @@
+既存の開発環境をgithubに登録する方法について調査
+
+事前に準備：
+・githubアカウント登録
+
+・新規にlocalにESP32の開発環境を作る
+　C:\workspace\testESP
+　　
+github コパイロット
+　AWS IoT EduKitでのLEDを点灯させるサンプルプログラムを作成してください
+　プログラムした仕様について仕様書を作成してください
+
+・githubでリポジトリ作成　
+
+・.gitignore を作成
+github コパイロット
+.gitignore を作成してください
+入れたくないものを記載しておいてください
+
+
+・ESP32で動作確認する
+　物がなかったのでできてない
+
+
+chatgptに質問する
+プロンプト：既存の開発環境をgithubに登録する方法を教えてください　VScode利用、ソース管理ツールでGUIで操作する方法を教えてください
+
+
+方法B：GitHubで先にリポジトリを作って、remote を登録して push（GUI）
+1) GitHubで空のリポジトリを作成
+
+GitHub → New repository
+
+README等は作らない（空で作る）（既にローカルにあるので競合回避）
+
+Private 推奨
+
+2) VS Code（Git Graph）で remote を追加（あなたの画面のまま進められます）
+
+画面中央の Git Graph タブ
+
+右側 Repository Settings → Remote Configuration
+
+「+ Add Remote」 をクリック
+
+入力
+
+Remote 名：origin
+
+URL：GitHub のリポジトリURL（HTTPS か SSH）
+
+追加したら、VS Code 左の ソース管理 に戻る
+
+上部の 「変更の同期」(Sync Changes) か 「プッシュ」(Push) を実行
+（無ければ … → プッシュ）
+
+これで push できるようになり、GitHub 側に main ブランチが作成されます。
+
+
+以下、一部のコミットだけしてまだコミットができていない場合は、リモート側に送信できないので注意
+
