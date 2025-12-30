@@ -1,61 +1,61 @@
-Šù‘¶‚ÌŠJ”­ŠÂ‹«‚ðgithub‚É“o˜^‚·‚é•û–@‚É‚Â‚¢‚Ä’²¸
+æ—¢å­˜ã®é–‹ç™ºç’°å¢ƒã‚’githubã«ç™»éŒ²ã™ã‚‹æ–¹æ³•ã«ã¤ã„ã¦èª¿æŸ»
 
-Ž–‘O‚É€”õF
-EgithubƒAƒJƒEƒ“ƒg“o˜^
+äº‹å‰ã«æº–å‚™ï¼š
+ãƒ»githubã‚¢ã‚«ã‚¦ãƒ³ãƒˆç™»éŒ²
 
-EV‹K‚Élocal‚ÉESP32‚ÌŠJ”­ŠÂ‹«‚ðì‚é
-@C:\workspace\testESP
-@@
-github ƒRƒpƒCƒƒbƒg
-@AWS IoT EduKit‚Å‚ÌLED‚ð“_“”‚³‚¹‚éƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚ðì¬‚µ‚Ä‚­‚¾‚³‚¢
-@ƒvƒƒOƒ‰ƒ€‚µ‚½Žd—l‚É‚Â‚¢‚ÄŽd—l‘‚ðì¬‚µ‚Ä‚­‚¾‚³‚¢
+ãƒ»æ–°è¦ã«localã«ESP32ã®é–‹ç™ºç’°å¢ƒã‚’ä½œã‚‹
+ã€€C:\workspace\testESP
+ã€€ã€€
+github ã‚³ãƒ‘ã‚¤ãƒ­ãƒƒãƒˆ
+ã€€AWS IoT EduKitã§ã®LEDã‚’ç‚¹ç¯ã•ã›ã‚‹ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’ä½œæˆã—ã¦ãã ã•ã„
+ã€€ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã—ãŸä»•æ§˜ã«ã¤ã„ã¦ä»•æ§˜æ›¸ã‚’ä½œæˆã—ã¦ãã ã•ã„
 
-Egithub‚ÅƒŠƒ|ƒWƒgƒŠì¬@
+ãƒ»githubã§ãƒªãƒã‚¸ãƒˆãƒªä½œæˆã€€
 
-E.gitignore ‚ðì¬
-github ƒRƒpƒCƒƒbƒg
-.gitignore ‚ðì¬‚µ‚Ä‚­‚¾‚³‚¢
-“ü‚ê‚½‚­‚È‚¢‚à‚Ì‚ð‹LÚ‚µ‚Ä‚¨‚¢‚Ä‚­‚¾‚³‚¢
-
-
-EESP32‚Å“®ìŠm”F‚·‚é
-@•¨‚ª‚È‚©‚Á‚½‚Ì‚Å‚Å‚«‚Ä‚È‚¢
+ãƒ».gitignore ã‚’ä½œæˆ
+github ã‚³ãƒ‘ã‚¤ãƒ­ãƒƒãƒˆ
+.gitignore ã‚’ä½œæˆã—ã¦ãã ã•ã„
+å…¥ã‚ŒãŸããªã„ã‚‚ã®ã‚’è¨˜è¼‰ã—ã¦ãŠã„ã¦ãã ã•ã„
 
 
-chatgpt‚ÉŽ¿–â‚·‚é
-ƒvƒƒ“ƒvƒgFŠù‘¶‚ÌŠJ”­ŠÂ‹«‚ðgithub‚É“o˜^‚·‚é•û–@‚ð‹³‚¦‚Ä‚­‚¾‚³‚¢@VScode—˜—pAƒ\[ƒXŠÇ—ƒc[ƒ‹‚ÅGUI‚Å‘€ì‚·‚é•û–@‚ð‹³‚¦‚Ä‚­‚¾‚³‚¢
+ãƒ»ESP32ã§å‹•ä½œç¢ºèªã™ã‚‹
+ã€€ç‰©ãŒãªã‹ã£ãŸã®ã§ã§ãã¦ãªã„
 
 
-•û–@BFGitHub‚Åæ‚ÉƒŠƒ|ƒWƒgƒŠ‚ðì‚Á‚ÄAremote ‚ð“o˜^‚µ‚Ä pushiGUIj
-1) GitHub‚Å‹ó‚ÌƒŠƒ|ƒWƒgƒŠ‚ðì¬
-
-GitHub ¨ New repository
-
-README“™‚Íì‚ç‚È‚¢i‹ó‚Åì‚éjiŠù‚Éƒ[ƒJƒ‹‚É‚ ‚é‚Ì‚Å‹£‡‰ñ”ðj
-
-Private „§
-
-2) VS CodeiGit Graphj‚Å remote ‚ð’Ç‰Ái‚ ‚È‚½‚Ì‰æ–Ê‚Ì‚Ü‚Üi‚ß‚ç‚ê‚Ü‚·j
-
-‰æ–Ê’†‰›‚Ì Git Graph ƒ^ƒu
-
-‰E‘¤ Repository Settings ¨ Remote Configuration
-
-u+ Add Remotev ‚ðƒNƒŠƒbƒN
-
-“ü—Í
-
-Remote –¼Forigin
-
-URLFGitHub ‚ÌƒŠƒ|ƒWƒgƒŠURLiHTTPS ‚© SSHj
-
-’Ç‰Á‚µ‚½‚çAVS Code ¶‚Ì ƒ\[ƒXŠÇ— ‚É–ß‚é
-
-ã•”‚Ì u•ÏX‚Ì“¯Šúv(Sync Changes) ‚© uƒvƒbƒVƒ…v(Push) ‚ðŽÀs
-i–³‚¯‚ê‚Î c ¨ ƒvƒbƒVƒ…j
-
-‚±‚ê‚Å push ‚Å‚«‚é‚æ‚¤‚É‚È‚èAGitHub ‘¤‚É main ƒuƒ‰ƒ“ƒ`‚ªì¬‚³‚ê‚Ü‚·B
+chatgptã«è³ªå•ã™ã‚‹
+ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆï¼šæ—¢å­˜ã®é–‹ç™ºç’°å¢ƒã‚’githubã«ç™»éŒ²ã™ã‚‹æ–¹æ³•ã‚’æ•™ãˆã¦ãã ã•ã„ã€€VScodeåˆ©ç”¨ã€ã‚½ãƒ¼ã‚¹ç®¡ç†ãƒ„ãƒ¼ãƒ«ã§GUIã§æ“ä½œã™ã‚‹æ–¹æ³•ã‚’æ•™ãˆã¦ãã ã•ã„
 
 
-ˆÈ‰ºAˆê•”‚ÌƒRƒ~ƒbƒg‚¾‚¯‚µ‚Ä‚Ü‚¾ƒRƒ~ƒbƒg‚ª‚Å‚«‚Ä‚¢‚È‚¢ê‡‚ÍAƒŠƒ‚[ƒg‘¤‚É‘—M‚Å‚«‚È‚¢‚Ì‚Å’ˆÓ
+æ–¹æ³•Bï¼šGitHubã§å…ˆã«ãƒªãƒã‚¸ãƒˆãƒªã‚’ä½œã£ã¦ã€remote ã‚’ç™»éŒ²ã—ã¦ pushï¼ˆGUIï¼‰
+1) GitHubã§ç©ºã®ãƒªãƒã‚¸ãƒˆãƒªã‚’ä½œæˆ
+
+GitHub â†’ New repository
+
+READMEç­‰ã¯ä½œã‚‰ãªã„ï¼ˆç©ºã§ä½œã‚‹ï¼‰ï¼ˆæ—¢ã«ãƒ­ãƒ¼ã‚«ãƒ«ã«ã‚ã‚‹ã®ã§ç«¶åˆå›žé¿ï¼‰
+
+Private æŽ¨å¥¨
+
+2) VS Codeï¼ˆGit Graphï¼‰ã§ remote ã‚’è¿½åŠ ï¼ˆã‚ãªãŸã®ç”»é¢ã®ã¾ã¾é€²ã‚ã‚‰ã‚Œã¾ã™ï¼‰
+
+ç”»é¢ä¸­å¤®ã® Git Graph ã‚¿ãƒ–
+
+å³å´ Repository Settings â†’ Remote Configuration
+
+ã€Œ+ Add Remoteã€ ã‚’ã‚¯ãƒªãƒƒã‚¯
+
+å…¥åŠ›
+
+Remote åï¼šorigin
+
+URLï¼šGitHub ã®ãƒªãƒã‚¸ãƒˆãƒªURLï¼ˆHTTPS ã‹ SSHï¼‰
+
+è¿½åŠ ã—ãŸã‚‰ã€VS Code å·¦ã® ã‚½ãƒ¼ã‚¹ç®¡ç† ã«æˆ»ã‚‹
+
+ä¸Šéƒ¨ã® ã€Œå¤‰æ›´ã®åŒæœŸã€(Sync Changes) ã‹ ã€Œãƒ—ãƒƒã‚·ãƒ¥ã€(Push) ã‚’å®Ÿè¡Œ
+ï¼ˆç„¡ã‘ã‚Œã° â€¦ â†’ ãƒ—ãƒƒã‚·ãƒ¥ï¼‰
+
+ã“ã‚Œã§ push ã§ãã‚‹ã‚ˆã†ã«ãªã‚Šã€GitHub å´ã« main ãƒ–ãƒ©ãƒ³ãƒãŒä½œæˆã•ã‚Œã¾ã™ã€‚
+
+
+ä»¥ä¸‹ã€ä¸€éƒ¨ã®ã‚³ãƒŸãƒƒãƒˆã ã‘ã—ã¦ã¾ã ã‚³ãƒŸãƒƒãƒˆãŒã§ãã¦ã„ãªã„å ´åˆã¯ã€ãƒªãƒ¢ãƒ¼ãƒˆå´ã«é€ä¿¡ã§ããªã„ã®ã§æ³¨æ„
 
